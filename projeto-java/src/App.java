@@ -1,5 +1,6 @@
 public class App {
     public static void main(String[] args) {
+        
         int nota = 5;
         int media = 7;
         if(nota >= media){
