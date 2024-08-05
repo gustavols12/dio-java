@@ -1,3 +1,5 @@
+package JavaBasico;
+
 public class comandosBasicos {
     public static void main(String[] args) {
         
