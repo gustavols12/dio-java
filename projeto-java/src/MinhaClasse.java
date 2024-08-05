@@ -6,6 +6,10 @@ public class MinhaClasse {
         int idade = 23;
         System.out.println(String.format("meu nome é %s e minha idade é %d",nome, idade));
         System.out.println((nome_completo(nome, sobrenome)));
+        boolean variavel = false;
+        System.out.println(variavel);
+        variavel = true;
+        System.out.println(variavel);
 
 
     }
