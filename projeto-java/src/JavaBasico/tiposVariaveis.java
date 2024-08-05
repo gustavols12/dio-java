@@ -1,4 +1,4 @@
-public class MinhaClasse {
+public class tiposVariaveis {
     public static void main(String[] args) {
         System.out.println("teste");
         String nome = "Gustavo";
